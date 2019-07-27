@@ -1,6 +1,6 @@
 {
   "name": "semaphore.co-sms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "semaphore.co api implementation for nodejs",
   "main": "lib/",
   "directories": {
