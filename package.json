@@ -1,0 +1,33 @@
+{
+  "name": "semaphore.co-sms",
+  "version": "1.0.0",
+  "description": "semaphore.co api implementation for nodejs",
+  "main": "lib/",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zabsalahid/semaphore-sms.git"
+  },
+  "keywords": [
+    "semaphore.co",
+    "sms",
+    "semaphore"
+  ],
+  "author": "Zab G. Salahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zabsalahid/semaphore-sms/issues"
+  },
+  "homepage": "https://github.com/zabsalahid/semaphore-sms#readme"
+}
